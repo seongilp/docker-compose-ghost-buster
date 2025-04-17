@@ -1,4 +1,4 @@
-FROM python:2
+FROM python:3.13.2
 USER root
 ENV LOGNAME buster
 
